@@ -2,7 +2,7 @@
 
 
 
-[test-online](https://play.rust-lang.org/)
+[Test-Online](https://play.rust-lang.org/)
 
 
 
@@ -16,3 +16,41 @@ qa.
 
 search for google.
 - stdout().flush()  method not found on `stdio::Stdout`
+
+
+#
+
+#
+#
+#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# refs
+- https://zhuanlan.zhihu.com/p/66395385
