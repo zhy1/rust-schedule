@@ -1,0 +1,22 @@
+
+
+
+[package]
+
+name = "hello-world"
+version = "0.1.0"
+authors = [ "zhouyihaha@gmail.com" ]
+
+# [dependencies.iron]
+
+# git = "https://github.com/iron/iron.git"
+
+# [dependencies.core]
+
+# git = "https://github.com/iron/core.git"
+
+[source.crates-io]
+replace-with = "rustcc"
+
+[source.rustcc]
+registry = "https://code.aliyun.com/rustcc/crates.io-index"
